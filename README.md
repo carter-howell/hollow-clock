@@ -1,8 +1,8 @@
 # Hollow Clock
 
-Status: Completed archive project
+Status: Completed electromechanical project
 
-I built this 3D-printed magnetic clock with a Waveshare RP2040 Zero board, stepper motor, and stepper driver. It is an older engineering project that demonstrates mechanical fabrication, embedded control, and electromechanical motion.
+I built this 3D-printed magnetic clock with a Waveshare RP2040 Zero board, stepper motor, and stepper driver.
 
 ![Hollow clock with magnetic hand](media/Clock.avif)
 
@@ -25,9 +25,9 @@ I used hidden magnetic motion to move the clock hand while keeping the visible d
 - Physical product assembly
 - Early electromechanical project experience
 
-## Status Notes
+## What I Learned
 
-I keep this as an archive project. It shows my long-term interest in building physical devices, but I place it below my newer PCB, robotics, embedded, and power-electronics work.
+This project helped me think through the physical side of embedded systems: how motor motion transfers through a printed mechanism, how hidden actuation changes the mechanical design, and how firmware timing has to match the real movement of the clock hand.
 
 ## Future Documentation Improvements
 
